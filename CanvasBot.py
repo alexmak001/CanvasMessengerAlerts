@@ -2,7 +2,7 @@ import pandas as pd
 from selenium import webdriver
 import numpy as np
 
-username = ""
+username = "1"
 password = ""
 
 driver = webdriver.Chrome("/Users/alex/Downloads/chromedriver")
