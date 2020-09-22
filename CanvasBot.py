@@ -2,10 +2,10 @@ import pandas as pd
 from selenium import webdriver
 import numpy as np
 
-username = "1"
+username = ""
 password = ""
 
-driver = webdriver.Chrome("/Users/alex/Downloads/chromedriver")
+driver = webdriver.Chrome("chromedriver_win32/chromedriver.exe")
 
 url = "https://myportal.fhda.edu"
 
